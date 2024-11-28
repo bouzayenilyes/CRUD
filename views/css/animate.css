@@ -1,0 +1,19 @@
+
+.table-row {
+    transition: all 0.3s ease;
+}
+.table-row:hover {
+    transform: translateX(5px);
+}
+.btn-primary {
+    transition: all 0.3s ease;
+}
+.btn-primary:hover {
+    transform: scale(1.05);
+}
+.bi {
+    transition: all 0.3s ease;
+}
+.bi:hover {
+    transform: rotate(10deg);
+}
